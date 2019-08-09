@@ -1,4 +1,7 @@
-// -ve at first is done right here
+// kush1781
+// Kushal Gupta
+// NIT-W
+// Calculator made by JAVA-AWT
 import java.util.*;
 import java.awt.*;
 import javax.swing.*;
