@@ -323,8 +323,8 @@ public class gui6 extends JFrame
                 st+="/";
             else if(k.getSource() == e)
             {
-                if(st=="")
-                 st=in.getText();
+               // if(st=="")
+                st=in.getText();
                 String st1 =st;
                 st=logic(st1);
                 o.setText(st);
